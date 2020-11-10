@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend>
+	<ora id="00" tipus="ea">
+		<targy>Lin alg num mod</targy>
+		<idopont nap="hetfo" tol="08" ig="10">
+		</idopont>
+		<helyszin>A1/201</helyszin>
+		<oktato>Karacsony Zsolt</oktato>
+		<szak>Progterv</szak>
+	</ora>
+	
+	<ora id="01" tipus="gyak2">
+		<targy>Algor es vizsg</targy>
+		<idopont nap="hetfo" tol="10" ig="12">
+		</idopont>
+		<helyszin>A1/12</helyszin>
+		<oktato>Hazy Attila</oktato>
+		<szak>Progterv</szak>
+	</ora>
+	
+	<ora id="03" tipus="ea">
+		<targy>Bevezetes az XML-be</targy>
+		<idopont nap="kedd" tol="10" ig="14">
+		</idopont>
+		<helyszin>info 101</helyszin>
+		<oktato>Bednarik Laszlo</oktato>
+		<szak>Progterv</szak>
+	</ora>
+	
+	<ora id="04" tipus="ea">
+		<targy>Szoftech</targy>
+		<idopont nap="szerda" tol="12" ig="14">
+		</idopont>
+		<helyszin>XXXV. ea</helyszin>
+		<oktato>Mileff Peter</oktato>
+		<szak>Progterv</szak>
+	</ora>
+	
+</orarend>
